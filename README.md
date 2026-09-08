@@ -5,3 +5,4 @@
 3. Opposite Number
 4. Abbreviate a Two Word Name
 5. Beginner - Reduce but Grow
+6. Calculate BMI
