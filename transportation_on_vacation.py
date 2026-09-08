@@ -1,7 +1,3 @@
 def rental_car_cost(d):
-    price = 40 * d
-    if d >= 3:
-        if d >= 7:
-            return price - 50
-        return price - 20
-    return price
+    discount = 50 if d > 6 else 20 if d > 2 else 0
+    return d * 40 - discount
