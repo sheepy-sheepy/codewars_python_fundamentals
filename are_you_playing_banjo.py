@@ -1,6 +1,6 @@
 def are_you_playing_banjo(name: str):
-    return f"{name} plays banjo" if name.lower().startswith("r") \
-        else f"{name} does not play banjo"
+    is_start_r = "plays" if name.startswith(("r", "R")) else "does not play"
+    return f"{name} {is_start_r} banjo"
 
 
 print(are_you_playing_banjo("bravo"))
