@@ -20,3 +20,4 @@
 18. Remove String Spaces
 19. Area or Perimeter
 20. Square Every Digit
+21. Multiples of 3 or 5
