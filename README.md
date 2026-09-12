@@ -24,4 +24,7 @@
 22. Even or Odd
 23. Vowel Count
 24. Disemvowel Trolls
-25. 
+25. Stop gninnipS My sdroW!
+26. Multiply
+27. Who likes it?
+28. Array.diff
