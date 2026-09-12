@@ -21,3 +21,7 @@
 19. Area or Perimeter
 20. Square Every Digit
 21. Multiples of 3 or 5
+22. Even or Odd
+23. Vowel Count
+24. Disemvowel Trolls
+25. 
