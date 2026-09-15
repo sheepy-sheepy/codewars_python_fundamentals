@@ -28,3 +28,6 @@
 26. Multiply
 27. Who likes it?
 28. Array.diff
+29. Highest and Lowest
+30. Find the odd int
+31. Create Phone Number
